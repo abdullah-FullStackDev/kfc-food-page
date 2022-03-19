@@ -23,3 +23,7 @@
     display: flex;
     justify-content: space-evenly;
 }
+.d-2{
+    border: 1px solid whitesmoke;
+    width: 80%;
+}
