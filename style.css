@@ -6,7 +6,7 @@
 }
 .d-1{
     border: 1px solid whitesmoke;
-    background-color: aliceblue;
+    background-color: silver;
     width: 80%;
 }
 .fz-2{
@@ -26,4 +26,18 @@
 .d-2{
     border: 1px solid whitesmoke;
     width: 80%;
+}
+.ff{
+    font-size: 40px;
+}
+.d-3{
+    border: 1px solid pink;
+    padding: 5px;
+    margin-top: 5px;
+}
+.p{
+    width: 350px;
+}
+.mb{
+    margin-bottom: 20px;
 }
