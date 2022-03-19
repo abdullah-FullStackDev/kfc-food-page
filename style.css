@@ -50,3 +50,28 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+footer{
+    background-color: rgb(255, 0, 0);
+}
+#p1{
+   text-align: center;
+}
+.pp{
+    color: rgb(255, 0, 0);
+}
+#f-image{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: 44%;
+}
+.z-image{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+  }
+  body{
+      margin-bottom: 0;
+      margin-right: 0;
+      margin-left: 0;
+  }
