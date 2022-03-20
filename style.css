@@ -91,3 +91,7 @@ footer{
   .mt{
       margin-top: 20px;
   }
+  .jr{
+      display: flex;
+      justify-content: right;
+  }
