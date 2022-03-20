@@ -99,3 +99,15 @@ footer{
       margin-left: 10px;
       margin-right: 10px;
   }
+  .co-2{
+    background-color: red;
+    width: 50%;
+  }
+  .li{
+      display: flex;
+      flex-direction: column;
+  }
+  .fz-la{
+      font-size: large;
+      font-weight: bold;
+  }
