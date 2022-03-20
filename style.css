@@ -74,4 +74,17 @@ footer{
       margin-bottom: 0;
       margin-right: 0;
       margin-left: 0;
+      margin-top: 0;
+  }
+  .d-4{
+      background-color: red;
+      width: 50px;
+      height: 20px;
+  }
+  .jc{
+      display: flex;
+      justify-content: center;
+  }
+  .ml{
+      margin-left: 20px;
   }
