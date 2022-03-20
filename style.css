@@ -95,3 +95,7 @@ footer{
       display: flex;
       justify-content: right;
   }
+  .m-2{
+      margin-left: 10px;
+      margin-right: 10px;
+  }
