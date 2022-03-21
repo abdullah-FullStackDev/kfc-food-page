@@ -10,7 +10,7 @@
     width: 80%;
 }
 .fz-2{
-    font-size: large;
+    font-size: larger;
     font-weight: 800;
 }
 .d-flex{
@@ -111,3 +111,28 @@ footer{
       font-size: large;
       font-weight: bold;
   }
+  .d-f-c{
+      display: flex;
+      flex-direction: column;
+  }
+  .mbb{
+      margin-bottom: 5px;
+  }
+  .jrr{
+      display: flex;
+      justify-content: right;
+  }
+  .tr{
+      text-align: right;
+  }
+  .dr{
+      display: block;
+      position: relative;
+  }
+  .d-5{
+    border: 1px solid whitesmoke;
+    width: 80%;
+}
+.cr{
+    color: red;
+}
