@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/-survey-form/)
+[Live Demo Link](https://abdullah-fullstackdev.github.io/kfc-food-page/)
 
 ## Getting Started
 
